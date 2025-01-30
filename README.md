@@ -27,6 +27,7 @@ cd my_flask_app
    python app.py
   ```
 6. **Access the Application**:
-   Open your web browser and navigate to > http://127.0.0.1:5000/.
+   Open your web browser and navigate to
+   > http://127.0.0.1:5000/.
 `
     
