@@ -12,4 +12,6 @@ pip install Flask
 ```
 mkdir my_flask_app
 cd my_flask_app
-```
+``
+3. Set up the Project structure: Inside the project directory, create the following files:
+- > app.py (main application file)
